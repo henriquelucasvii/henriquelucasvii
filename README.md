@@ -18,7 +18,7 @@
 
   ## 📊 Estatísticas
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuHenriqueVieira&hide_progress=false&theme=algolia&hide_border=true) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelucasvii&hide_progress=false&theme=algolia&hide_border=true) 
   
 </div>
 
