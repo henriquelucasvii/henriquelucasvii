@@ -16,14 +16,6 @@
 
 <div align="center">
 
-  ## 📊 Estatísticas
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelucasvii&hide_progress=true&theme=algolia&hide_border=true) 
-  
-</div>
-
-<div align="center">
-
   ## 💻 Tecnologias e Ferramentas
 
 </div>
