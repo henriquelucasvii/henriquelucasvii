@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,c,cpp,nodejs,react,ts,php,python"/>
+    <img src="https://skillicons.dev/icons?i=git,java,spring,c,cpp,ts,nodejs,php,python"/>
   </a>
 </p>
 
@@ -33,5 +33,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquelucasvii/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdeoliveiravieira/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashenriquevieira86@gmail.com)  
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2575fc&section=footer&reversal=true">
