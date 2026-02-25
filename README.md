@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=9b23ea&reversal=true">
+<img src="assets/titleName.svg">
 
 <div align="center" width="100%>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=9b23ea&center=true&vCenter=true&width=435&lines=Olá%2C+Meu+nome+é+Lucas+Vieira;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo!" alt="Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=0acffe&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Computer+Science+Intern" alt="Typing SVG">
   </a>
   
 </div>
@@ -37,4 +37,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=9b23ea&section=footer&reversal=true">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0acffe&reversal=true&section=footer">
