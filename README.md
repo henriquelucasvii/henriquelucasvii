@@ -10,18 +10,18 @@
 
 <div align="justify">
   
-   Sou estudante de Ciência da Computação e atualmente atuo como estagiário em Gestão de Automação e Inteligência Artificial, onde aplico na prática conceitos de desenvolvimento, otimização de processos e uso de tecnologias voltadas para soluções inteligentes. Focado em Desenvolvimento Back-End, com interesse na criação de soluções eficientes, escaláveis e bem estruturadas, sempre aplicando boas práticas e buscando evolução constante.
+   I am a **Computer Science** student and currently work as **artificial inteligence and automation manager**, where I apply development concepts, process optimazation and use of technologies geared towards smart solutions. Focused on **Back-End Development**, with an interest in creating efficient, scalable, and well-structured solutions, always applying best practices and seeking constant improvement.
    
 </div>
 
 <div align="center">
   
-  ## 💻 Linguagens 
+  ## 💻 Languagens
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,ts,nodejs,react,php,python"/>
   </a>
 
-  ## 🛠️ Ferramentas
+  ## 🛠️ Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,linux"/>
   </a>
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-## ✉️ Contato e Redes Sociais
+  ## ✉️ Contact
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquelucasvii/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdeoliveiravieira/)
