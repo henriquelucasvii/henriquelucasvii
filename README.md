@@ -1,30 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2575fc&section=header&reversal=true">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=9b23ea&reversal=true">
 
 <div align="center" width="100%>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=18ABFC&center=true&vCenter=true&width=435&lines=Olá%2C+Meu+nome+é+Lucas+Vieira;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo!" alt="Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=9b23ea&center=true&vCenter=true&width=435&lines=Olá%2C+Meu+nome+é+Lucas+Vieira;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo!" alt="Typing SVG">
   </a>
   
 </div>
 
 ---
 
-<div align="center">
+<div align="justify">
   
-  🎓  Sou estudante de **Ciência da Computação** e tenho me dedicado constantemente ao desenvolvimento de habilidades e técnicas voltadas para o **Desenvolvimento Back-End**. Meu objetivo é me tornar um profissional capaz de criar soluções eficientes, escaláveis e bem estruturadas, sempre buscando qualidade e boas práticas. Estou em constante aprendizado para estar preparado para enfrentar diferentes desafios e atender às demandas do mercado de tecnologia.
+   Sou estudante de Ciência da Computação e atualmente atuo como estagiário em Gestão de Automação e Inteligência Artificial, onde aplico na prática conceitos de desenvolvimento, otimização de processos e uso de tecnologias voltadas para soluções inteligentes. Focado em Desenvolvimento Back-End, com interesse na criação de soluções eficientes, escaláveis e bem estruturadas, sempre aplicando boas práticas e buscando evolução constante.
    
 </div>
 
 <div align="center">
-
-  ## 💻 Tecnologias e Ferramentas
-
-</div>
-
-<p align="center">
+  
+  ## 💻 Linguagens 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,c,cpp,ts,nodejs,php,python"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,ts,nodejs,react,php,python"/>
   </a>
-</p>
+
+  ## 🛠️ Ferramentas
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,linux"/>
+  </a>
+</div>
 
 <div align="center">
 
@@ -36,4 +37,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2575fc&section=footer&reversal=true">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=9b23ea&section=footer&reversal=true">
