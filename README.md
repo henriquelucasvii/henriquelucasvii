@@ -18,7 +18,7 @@
   
   ## 💻 Languagens
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,ts,nodejs,react,php,python"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,ts,nodejs,react,mongodb,php"/>
   </a>
 
   ## 🛠️ Tools
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-  ## ✉️ Contact
+## ✉️ Contact
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquelucasvii/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdeoliveiravieira/)
