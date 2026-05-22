@@ -22,7 +22,7 @@
 
   ## 🛠️ Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,linux"/>
+    <img src="https://skillicons.dev/icons?i=linux,arduino,git"/>
   </a>
   <p>
     <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" vertical-align="middle" />
