@@ -17,7 +17,7 @@
   
   ## 💻 Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,ts,nodejs,react,mongodb,php"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,ts,nodejs,react,mongodb,php,laravel"/>
   </a>
 
   ## 🛠️ Tools
