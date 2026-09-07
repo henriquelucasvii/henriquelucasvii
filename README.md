@@ -1,15 +1,15 @@
 <img src="assets/titleName.svg">
 
-<div align="center" width="100%>
+<div align="center" width="100%">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=0acffe&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Computer+Science+Intern" alt="Typing SVG">
   </a>
 </div>
 
 ---
-
-<div align="justify">
   
-   I am a **Computer Science** student currently working as an **AI and Automation Manager**. I specialize in process optimization and the implementation of intelligent, automated workflows. Focused on **Back-End Development**, I strive to build efficient, scalable, and well-structured solutions, always following clean architecture and best practices.
+<div align="justify>
+  
+   I am a Computer Science student focused on Back-End Development and software engineering. I enjoy building efficient, scalable, and well-structured solutions, following clean architecture and software development best practices. I am always looking to improve my skills, explore new technologies, and develop reliable solutions to real-world problems.
    
 </div>
 
@@ -17,7 +17,7 @@
   
   ## 💻 Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,ts,nodejs,react,mongodb,php,laravel"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,ts,nodejs,react,mongodb,php,laravel,flutter"/>
   </a>
 
   ## 🛠️ Tools
@@ -39,4 +39,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0acffe&reversal=true&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0acffe&reversal=true&section=footer">
