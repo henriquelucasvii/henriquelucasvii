@@ -6,10 +6,10 @@
 </div>
 
 ---
+
+<div align="justify">
   
-<div align="justify>
-  
-   I am a Computer Science student focused on Back-End Development and software engineering. I enjoy building efficient, scalable, and well-structured solutions, following clean architecture and software development best practices. I am always looking to improve my skills, explore new technologies, and develop reliable solutions to real-world problems.
+ I am a Computer Science student focused on Back-End Development and software engineering. I enjoy building efficient, scalable, and well-structured solutions, following clean architecture and software development best practices. I am always looking to improve my skills, explore new technologies, and develop reliable solutions to real-world problems.
    
 </div>
 
@@ -17,16 +17,14 @@
   
   ## 💻 Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,ts,nodejs,react,mongodb,php,laravel,flutter"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,ts,nodejs,react,php,laravel,flutter"/>
   </a>
 
   ## 🛠️ Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arduino,git"/>
   </a>
-  <p>
-    <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" vertical-align="middle" />
-  </p>
+  
 </div>
 
 <div align="center">
