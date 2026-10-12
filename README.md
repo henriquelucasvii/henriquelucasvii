@@ -24,13 +24,19 @@
 
 <br>
 
-<div align="justify">
+<div align="left">
+
+<img src="assets/picture.jpg" align="right" width="220px" style="margin-left: 20px; border-radius: 10px;">
+
+<p >
 
 I am a Computer Science student focused on <b>Back-End Development</b> and <b>software engineering</b>. I enjoy building efficient, scalable, and well-structured solutions, following clean architecture and software development best practices. I am always looking to improve my skills, explore new technologies, and develop reliable solutions to real-world problems.
 
+</p>
+
 </div>
 
-<br>
+<br clear="right">
 
 ---
 
@@ -53,6 +59,8 @@ I am a Computer Science student focused on <b>Back-End Development</b> and <b>so
 </div>
 
 <br>
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=24&pause=1000&color=0ACFFE&center=true&vCenter=true&width=435&height=45&lines=Tools" alt="Tools"/>
